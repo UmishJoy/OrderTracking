@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderTracking", "OrderTracking\OrderTracking.csproj", "{502C68FB-1B81-456F-9130-3AFC21CAB877}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderTrackingTest", "OrderTrackingTest\OrderTrackingTest.csproj", "{2A4B2A92-2A65-4B33-8713-495CEBB9B8E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{502C68FB-1B81-456F-9130-3AFC21CAB877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{502C68FB-1B81-456F-9130-3AFC21CAB877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{502C68FB-1B81-456F-9130-3AFC21CAB877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{502C68FB-1B81-456F-9130-3AFC21CAB877}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A4B2A92-2A65-4B33-8713-495CEBB9B8E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A4B2A92-2A65-4B33-8713-495CEBB9B8E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A4B2A92-2A65-4B33-8713-495CEBB9B8E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A4B2A92-2A65-4B33-8713-495CEBB9B8E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {625E8FDE-5754-4529-9A7D-ECA7CAD093CA}
+	EndGlobalSection
+EndGlobal
